@@ -17,6 +17,6 @@ export class MensajesController {
     }
     @Delete(':id')
     delete() {
-        return 'mensaje eliminado';
+        return 'mensaje eliminado Liz Y Jazz';
     }
 }
